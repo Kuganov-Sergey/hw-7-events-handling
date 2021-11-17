@@ -1,0 +1,20 @@
+
+body {
+    display: inline;
+}
+
+div {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: rgb(236, 143, 143);
+    border: 1px solid black;
+    width: 30%;
+    box-sizing: border-box;
+    text-align: center;
+    position: absolute;
+    margin-left: 40%;
+    margin-top: 20%
+}
+
+input {
+    margin-bottom: 20px;
+}

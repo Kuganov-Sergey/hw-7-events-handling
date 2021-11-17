@@ -1,0 +1,16 @@
+
+div {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: rgb(221, 219, 219);
+    width: 30%;
+    position: absolute;
+    left: 35%;
+}
+
+.disk {
+    list-style-type: circle;
+}
+
+.package {
+    list-style-type: square;
+}
