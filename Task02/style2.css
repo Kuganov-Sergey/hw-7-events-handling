@@ -26,6 +26,7 @@ input {
     font-family: 'Segoe UI', sans-serif;
 }
 
+/* Удвоение имён классов на мой взгляд является избыточным – лучше назвать их со словом color */
 .green-green {
     background-color: green;
 }
